@@ -1,2 +1,4 @@
-example_setting:
-  default: true
+svg_icons: 
+  default: 'calendar-day|clock|layer-group|chart-bar|user-graduate|comment-dots'
+  type: 'list'
+  list_type: 'compact'
